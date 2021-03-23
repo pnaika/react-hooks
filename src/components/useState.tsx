@@ -36,7 +36,7 @@ const UseStateComponent = () => {
     };
 
     return (
-        <div>
+        <div className="box-section">
             <h1>useState Demo</h1>
             <h4>For Counter Example</h4>
             <span className="button-container">
